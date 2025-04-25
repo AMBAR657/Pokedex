@@ -60,7 +60,7 @@ export default function ApokedexComponent() {
 
   return (
     <div className="min-h-screen py-8 px-4" style={{ backgroundColor: "#abebc6" }}>
-      <h1 className="text-4xl font-bold text-center text-gray-800 mb-6">Pokédex</h1>
+      <h1 className="text-4xl font-bold text-center text-gray-800 mb-6">*Pokédex*</h1>
 
       {/* Campo de búsqueda */}
       <div className="flex justify-center mb-10">
