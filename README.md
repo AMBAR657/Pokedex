@@ -1,0 +1,2 @@
+# Pokedex
+cartas de pokemones
