@@ -132,7 +132,7 @@ export default function ApokedexComponent() {
 
       {/* Mensaje si no hay resultados */}
       {filteredPokemons.length === 0 && (
-        <p className="text-center text-gray-500">No se encontraron Pokémon</p>
+        <p className="text-center text-gray-500">No se encontraron los Pokémon</p>
       )}
 
       {/* Botón Cargar más (opcional, ya no es necesario con los 151 iniciales) */}
